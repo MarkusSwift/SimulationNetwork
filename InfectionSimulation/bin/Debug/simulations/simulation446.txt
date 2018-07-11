@@ -1,0 +1,2 @@
+simulations:1 population:240 rateOfInfect:2 rateOfRecovery:1 rateOfMoving:0 run:False standardDiviation:True cliquesAndMovement:True time:2018-07-05|16:02:19 kommentar:
+20 ¤¤¤ 0,08333334 0

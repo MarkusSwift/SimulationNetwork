@@ -1,0 +1,11 @@
+simulations:1000 population:100 rateOfInfect:0,2 rateOfRecovery:2 rateOfMoving:36 standardDiviation:True time:2018-07-04|14:28:48 kommentar:
+9528 9523,246
+2222 2220,891
+1713 1712,145
+1479 1478,256
+1473 1472,264
+1383 1382,308
+1294 1293,35
+1441 1440,284
+1434 1433,29
+1253 1252,37

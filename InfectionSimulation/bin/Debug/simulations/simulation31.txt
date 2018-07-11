@@ -1,0 +1,11 @@
+simulations:10000 population:120 rateOfInfect:100 rateOfRecovery:2 rateOfMoving:4,5 time:2018-07-03|14:49:43 kommentar:
+3494,867
+3566,383
+3450,225
+3549,892
+3395,15
+3443,492
+3452,867
+3448,958
+3445,717
+3400,483

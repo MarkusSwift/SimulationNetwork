@@ -1,0 +1,9 @@
+simulations:2000 population:240 rateOfInfect:0,465 rateOfRecovery:1 rateOfMoving:1,75 time:2018-07-04|13:24:29 kommentar:Snart vid L
+32,732
+33,3415
+32,483
+31,9895
+30,8125
+29,7295
+26,994
+27,864

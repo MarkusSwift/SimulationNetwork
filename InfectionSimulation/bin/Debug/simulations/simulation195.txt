@@ -1,0 +1,11 @@
+simulations:100 population:240 rateOfInfect:0,5 rateOfRecovery:1 rateOfMoving:9 time:2018-07-04|11:26:31 kommentar:
+225,37
+187,81
+165,13
+149,01
+111,29
+80,33
+78,11
+69,98
+63,3
+28,71

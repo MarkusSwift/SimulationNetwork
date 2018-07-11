@@ -1,0 +1,11 @@
+simulations:1000 population:400 rateOfInfect:100 rateOfRecovery:0,5 rateOfMoving:0,9 time:2018-07-03|22:10:36 kommentar:
+333,44
+335,904
+340,347
+333,386
+332,779
+336,724
+330,808
+341,819
+335,346
+334,411

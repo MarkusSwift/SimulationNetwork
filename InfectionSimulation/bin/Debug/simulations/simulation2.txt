@@ -1,0 +1,3 @@
+simulations:10 population:100 rateOfInfect:4 rateOfRecovery:2 rateOfMoving:2 time:2018-07-02|00:00:00 kommentar:kakor
+100
+100

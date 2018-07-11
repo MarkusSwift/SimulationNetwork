@@ -1,0 +1,5 @@
+simulations:2 population:3 rateOfInfect:4 rateOfRecovery:2 rateOfMoving:4 time:2018-07-02|00:00:00 kommentar:
+2
+3
+3
+3

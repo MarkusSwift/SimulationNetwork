@@ -1,0 +1,11 @@
+simulations:10 population:100 rateOfInfect:4 rateOfRecovery:2 rateOfMoving:36 standardDiviation:True cliquesAndMovement:True time:2018-07-04|20:27:18 kommentar:
+100 0 1 0
+100 0 1 94,2
+90,2 30,99032 0,92 151,3
+90,4 30,35787 0,92 232,5
+100 0 1 323,4
+70,5 47,50263 0,7600001 272,1
+100 0 1 492,7
+90,1 31,30655 0,92 500,4
+100 0 1 603,8
+80,3 41,53191 0,84 532,3

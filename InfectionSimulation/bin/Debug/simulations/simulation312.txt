@@ -1,0 +1,11 @@
+simulations:1000 population:240 rateOfInfect:0,5 rateOfRecovery:1 rateOfMoving:1,8 standardDiviation:True time:2018-07-04|14:53:02 kommentar:INterestingResult
+17,812 6,028011
+18,716 13,88438
+19,068 19,34599
+19,694 27,59607
+17,357 26,31709
+17,514 30,65287
+16,157 31,7893
+17,922 37,23629
+16,886 39,07529
+18,657 44,55574

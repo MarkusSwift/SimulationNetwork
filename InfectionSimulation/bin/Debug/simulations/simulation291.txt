@@ -1,0 +1,11 @@
+simulations:10 population:100 rateOfInfect:4 rateOfRecovery:2 rateOfMoving:36 standardDiviation:True time:2018-07-04|14:19:28 kommentar:
+762 System.Single[]
+1000 System.Single[]
+846 System.Single[]
+916 System.Single[]
+709 System.Single[]
+806 System.Single[]
+724 System.Single[]
+805 System.Single[]
+721 System.Single[]
+903 System.Single[]

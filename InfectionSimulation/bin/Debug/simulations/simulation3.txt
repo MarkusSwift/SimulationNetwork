@@ -1,0 +1,21 @@
+simulations:100 population:100 rateOfInfect:4 rateOfRecovery:2 rateOfMoving:0,1 time:2018-07-02|00:00:00 kommentar:
+99,01
+100
+100
+99,01
+100
+100
+98,02
+100
+98,02
+100
+100
+99,01
+100
+99,01
+99,01
+99,01
+99,01
+100
+98,02
+99,01

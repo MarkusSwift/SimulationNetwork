@@ -1,0 +1,11 @@
+simulations:10 population:100 rateOfInfect:4 rateOfRecovery:2 rateOfMoving:36 standardDiviation:True time:2018-07-04|14:26:10 kommentar:
+880 835,2777
+911 864,7086
+648 616,4463
+906 860,0209
+906 860,0209
+903 857,21
+622 592,0993
+907 860,9582
+807 766,6682
+809 768,5404

@@ -1,0 +1,6 @@
+simulations:10000 population:240 rateOfInfect:1 rateOfRecovery:1 rateOfMoving:0,8 run:False standardDiviation:True cliquesAndMovement:True time:2018-07-09|21:41:56 kommentar:
+226,0093 40,81221 0,90695 0
+225,7948 44,97213 0,93595 44,7321
+225,3795 47,85265 0,94665 89,1443
+225,6223 48,31704 0,95285 133,9672
+224,1008 51,89242 0,9524 177,4752

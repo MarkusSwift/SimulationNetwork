@@ -1,0 +1,9 @@
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\bin\Release\InfectionSimulation.exe.config
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\bin\Release\InfectionSimulation.exe
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\bin\Release\InfectionSimulation.pdb
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\obj\Release\Graph_Lib.Form1.resources
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\obj\Release\InfectionSimulation.Properties.Resources.resources
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\obj\Release\InfectionSimulation.csproj.GenerateResource.Cache
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\obj\Release\InfectionSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\obj\Release\InfectionSimulation.exe
+C:\Users\Wilhelm\Google Drive\Övrigt hemmadator\Rays\Stochastik modeling\InfectionSimulation - kopia (2)\InfectionSimulation\obj\Release\InfectionSimulation.pdb

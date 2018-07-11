@@ -1,0 +1,17 @@
+simulations:1 population:240 rateOfInfect:1 rateOfRecovery:1 rateOfMoving:3 run:False standardDiviation:True cliquesAndMovement:True time:2018-07-09|20:33:26 kommentar:
+240 ¤¤¤ 1 0
+240 ¤¤¤ 1 48
+240 ¤¤¤ 1 82
+240 ¤¤¤ 1 131
+240 ¤¤¤ 1 207
+240 ¤¤¤ 1 221
+240 ¤¤¤ 1 286
+240 ¤¤¤ 1 334
+109 ¤¤¤ 0,5 171
+240 ¤¤¤ 1 450
+240 ¤¤¤ 1 542
+240 ¤¤¤ 1 552
+240 ¤¤¤ 1 582
+240 ¤¤¤ 1 569
+240 ¤¤¤ 1 730
+240 ¤¤¤ 1 780
